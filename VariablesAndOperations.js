@@ -10,6 +10,7 @@ var middleInitial ='C';
 //create a variable to hold true if it's hot outside and false if it's cold outside
 var hotOutside = false;
 
+//And a second something
 //create a variable to hold a customer's first name
 var customerFirstName ="Bob";
 
